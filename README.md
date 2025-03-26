@@ -1,3 +1,5 @@
+**Customer Data Analysis**
+
 1. Aim : The objective of this project is to analyze customer data using Power BI and create insightful visualizations to understand key trends, patterns, and performance metrics.
 
 2. About the dataset:
