@@ -1,62 +1,16 @@
-Overview
+In assignment 1 i learn following things which are as follows:
+During intial stage,get data from the source and convert into csv file.
+Further, by using power query editor i transform and clean the data in which i have done:
+1.Rename columns
+2.Filter rows
+3.Change data types
+After that, created Bar chart (summary of one column),Pie chart (proportions of a metric) and
+Format visuals.
 
-This project involves analyzing User Engagement and CPU Log File datasets using Power BI. The goal is to perform CRUD operations on the database, transform the data, and create interactive dashboards for insightful data visualization.
+Moreover, also used data for loan analysis in which i used donout and bar chart for visulasing the 
+data.
 
-Dataset Information
+On the another side, also work on personl order and details data and created a sales dashboard using different graphs 
 
-customer.csv: Contains user engagement data, including user activity and interactions.
-
-Assignment_1.pbix: Power BI report file containing visualizations and insights from the dataset.
-
-Key Features
-
-Data Import & Transformation: Imported CSV and SQL database data into Power BI for further analysis.
-
-CRUD Operations: Applied Create, Read, Update, and Delete operations to refine dataset quality.
-
-Visualization Techniques:
-
-Clustered Column Charts
-
-Doughnut & Pie Charts
-
-Bar Graphs
-
-Line Graphs
-
-KPI Metrics
-
-Insights Derived:
-
-System memory and buffer memory usage trends.
-
-CPU count distribution per technology.
-
-Users with maximum CPU count differences.
-
-Steps to Run
-
-Open the Assignment_1.pbix file in Power BI.
-
-Load the customer.csv dataset if required.
-
-Explore various dashboards and filters to gain insights.
-
-Tools Used
-
-Power BI: For data visualization and reporting.
-
-SQL Database: For structured data storage and querying.
-
-Excel/CSV Files: For external data sources.
-
-Future Improvements
-
-Implement real-time data updates using Power BI Service.
-
-Enhance data cleaning processes for better accuracy.
-
-Add more interactive filters for deeper insights
-
-Below is the link to see my work
+Below is the link to check it out:
 https://drive.google.com/drive/folders/1VUo2LN20gVKpLzKfHJNQ9b03LYvPfXDb?usp=sharing
